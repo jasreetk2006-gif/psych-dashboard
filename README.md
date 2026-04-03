@@ -1,5 +1,10 @@
 # Psych for Life — Dashboard
 
+![Dashboard](public/screenshots/dashboard.png)
+
+> An admin dashboard and CMS built with React + TypeScript,
+> simulating the analytics and content management layer
+> for a psychology wellness app.
 A web dashboard built with **React + TypeScript** to simulate an admin interface for a psychology app. Includes user authentication flow, analytics stats, a weekly activity chart, and a live activity feed.
 
 ## Tech Stack
